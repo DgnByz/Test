@@ -54,3 +54,6 @@ sudo systemctl start satori.service
 
 # Check the status of the satori.service
 sudo systemctl status satori.service | tee -a ~/install.log
+
+# OK
+sudo reboot
