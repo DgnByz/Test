@@ -56,4 +56,3 @@ sudo systemctl start satori.service
 sudo systemctl status satori.service | tee -a ~/install.log
 
 # OK
-sudo reboot
